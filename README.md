@@ -37,7 +37,7 @@ Step 2.
 - Open the file " modlist.html "
 
 Step 3. 
-- Manually Downlaoad all of the mods and place them in your mod folder ( more help here https://youtu.be/nibb86vU8BM )
+- Manually Downlaoad all of the mods and place them in your mod folder (  more help here https://youtu.be/nibb86vU8BM?t=223 )
 
 Step 4.
 - Launch Minecraft And Select The Forge Option
